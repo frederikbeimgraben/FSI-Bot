@@ -1,5 +1,5 @@
 # What is this
-This is a Discord bot designed for the Informatik II course year 2021 of the Uni Tübingen
+This is a Discord bot designed for the ~Informatik II course year 2021 of the Uni Tübingen~ server of FSI Reutlingen 
 
 The goal is to implement features that help with talking about different topics related to programming
 
